@@ -1,9 +1,19 @@
 body{
-    background-color: rgb(78, 68, 68);
-color:rgb(255, 0, 149);
+    background-color: rgb(0, 0, 0);
+color:rgb(255, 72, 0);
 
 }
 h3{
 text-align: center ;
 
 }
+a{
+    color: rgb(17, 0, 255);
+
+}
+header{
+color: rgb(238, 255, 0);
+
+}
+
+
