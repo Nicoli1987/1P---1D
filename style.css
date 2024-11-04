@@ -7,13 +7,12 @@ h3{
 text-align: center ;
 
 }
- .primeiro-titulo{
-text-align: left;
+ .primeiro-titulo{}
     color: rgb(17, 0, 255);
-background-color:#1A1A1D ;
-margin: 20px;
-padding: 20px;
- }
 
+header{
+color: rgb(238, 255, 0);
+
+}
 
 
